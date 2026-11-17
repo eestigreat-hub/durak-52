@@ -1,0 +1,6 @@
+SVG-cards 4.0.0 — classic French playing cards by David Bellot,
+with contributions by the SVG-cards authors and H.T. de Beer.
+Source: https://github.com/htdebeer/SVG-cards
+License: GNU Lesser General Public License version 2.1 (see LICENSE.txt).
+Original authors: AUTHORS.txt. Unmodified source: svg-cards.svg.
+PNG files copied unchanged from png/2x. No jokers are used by this game.

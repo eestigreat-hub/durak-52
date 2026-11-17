@@ -1,0 +1,5 @@
+Card slide recording: Kenney Casino Audio, CC0 1.0.
+Original source: https://kenney.nl/assets/casino-audio
+Downloaded from: https://github.com/tegnike/aozora-islands/blob/main/src/assets/audio/sfx-card-draw.ogg
+This file derives from card-slide-2.ogg. See SOURCE.md for upstream attribution.
+Played at low volume without pitch changes. No synthesized oscillator tones.
